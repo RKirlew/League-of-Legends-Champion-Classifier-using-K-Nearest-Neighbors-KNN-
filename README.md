@@ -6,7 +6,7 @@ This project leverages machine learning to classify champions in the popular gam
 
 # League of Legends Champion Classifier using K-Nearest Neighbors (KNN)
 
-This project leverages machine learning to classify champions in the popular game **League of Legends** based on their attributes. The model predicts a champion's class (e.g., Assassin, Tank, Mage) using features such as Base HP, Base Mana, Difficulty, Role, and Range Type. This project showcases a complete ML pipeline, including data preprocessing, feature engineering, and model evaluation, making it an excellent addition to an aspiring Machine Learning Engineer's portfolio.
+This project leverages machine learning to classify champions in the popular game **League of Legends** based on their attributes. The model predicts a champion's class (e.g., Assassin, Tank, Mage) using features such as Base HP, Base Mana, Difficulty, Role, and Range Type. This project showcases a complete ML pipeline, including data preprocessing, feature engineering, and model evaluation.
 
 ---
 
